@@ -1,5 +1,10 @@
 {
   "date": "2026-01-22",
   "budget": 0,
-  "items": []
+  "items": [
+    {
+      "text": "test 1",
+      "amount": 1
+    }
+  ]
 }
