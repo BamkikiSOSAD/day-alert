@@ -1,11 +1,6 @@
 {
   "date": "2026-01-22",
-  "budget": 250,
-  "items": [
-    {
-      "text": "3",
-      "amount": 3
-    }
-  ],
-  "mode": "clear_menu"
+  "budget": 0,
+  "items": [],
+  "mode": null
 }
