@@ -1,11 +1,6 @@
 {
   "date": "2026-01-22",
-  "budget": 250,
-  "items": [
-    {
-      "text": "แกร๊บ 30\nชานม 45\nก๋วยเตี๋ยว 50",
-      "amount": 30
-    }
-  ],
-  "mode": "clear_menu"
+  "budget": 0,
+  "items": [],
+  "mode": null
 }
