@@ -45,7 +45,7 @@ def main():
     # ถ้าอยากเคลียร์ทันที ให้ uncomment:
     # state["items"] = []
     # save_state(state)
-    save_state(state)
+    # save_state(state)
 
 if __name__ == "__main__":
     main()
