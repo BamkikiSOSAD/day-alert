@@ -1,27 +1,5 @@
 {
-  "date": "2026-01-22",
-  "budget": 250,
-  "items": [
-    {
-      "text": "แกร๊บ 30",
-      "amount": 30
-    },
-    {
-      "text": "ก๋วยเตี๋ยว 50",
-      "amount": 50
-    },
-    {
-      "text": "ชานม 45",
-      "amount": 45
-    },
-    {
-      "text": "KFC170",
-      "amount": 170
-    },
-    {
-      "text": "แกร๊บ 33",
-      "amount": 33
-    }
-  ],
-  "mode": null
+  "date": "2026-01-23",
+  "budget": 0,
+  "items": []
 }
