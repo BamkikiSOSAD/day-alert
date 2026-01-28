@@ -1,6 +1,11 @@
 {
   "date": "2026-01-28",
   "budget": 300,
-  "items": [],
+  "items": [
+    {
+      "text": "แกรป 34",
+      "amount": 34
+    }
+  ],
   "mode": null
 }
