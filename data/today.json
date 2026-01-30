@@ -1,15 +1,5 @@
 {
-  "date": "2026-01-29",
-  "budget": 300,
-  "items": [
-    {
-      "text": "แกรป 31",
-      "amount": 31
-    },
-    {
-      "text": "ก๋วยเตี๋ยว 60",
-      "amount": 60
-    }
-  ],
-  "mode": null
+  "date": "2026-01-30",
+  "budget": 0,
+  "items": []
 }
